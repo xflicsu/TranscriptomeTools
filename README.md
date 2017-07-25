@@ -8,8 +8,8 @@ Collection of software to deal with different types of RNA-Seq
 
 [iRNA-Seq](http://www.sdu.dk/en/om_sdu/institutter_centre/bmb_biokemi_og_molekylaer_biologi/forskning/forskningsgrupper/functionalgenomics/tools) 
 
-## RNA editing
+## RNA editing (RNA-Seq only)
 [giremi](https://github.com/zhqingit/giremi)
 
-BGI??
+[RED-ML](https://github.com/BGIRED/RED-ML)
 
