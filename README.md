@@ -22,3 +22,6 @@ Collection of software to deal with different types of RNA-Seq
 
 [JTK_Cycle](http://www.openwetware.org/wiki/HughesLab:JTK_Cycle) 
 
+[BIO_CYCLE](http://circadiomics.ics.uci.edu/?biocycle=true)
+
+[RAIN](https://www.bioconductor.org/packages/release/bioc/html/rain.html)
