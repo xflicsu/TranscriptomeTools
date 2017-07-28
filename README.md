@@ -13,3 +13,9 @@ Collection of software to deal with different types of RNA-Seq
 
 [RED-ML](https://github.com/BGIRED/RED-ML)
 
+## Rhythmic expression
+[ARSER](https://github.com/cauyrd/ARSER) 
+[MetaCycle](https://github.com/gangwug/MetaCycle) 
+[eJTK](https://github.com/alanlhutchison/empirical-JTK_CYCLE-with-asymmetry) 
+[JTK_Cycle](http://www.openwetware.org/wiki/HughesLab:JTK_Cycle) 
+
