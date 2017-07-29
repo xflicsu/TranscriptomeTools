@@ -26,6 +26,6 @@ Collection of software to deal with different types of RNA-Seq
 
 [RAIN](https://www.bioconductor.org/packages/release/bioc/html/rain.html)
 
-[zeitzeiger](https://github.com/jakejh/zeitzeiger)
+[ZeitZeiger](https://github.com/jakejh/zeitzeiger)
 
 [DODR](https://cran.r-project.org/web/packages/DODR/index.html)
