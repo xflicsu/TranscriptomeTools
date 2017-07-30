@@ -16,6 +16,8 @@ Collection of software to deal with different types of RNA-Seq
 ## Rhythmic expression
 [ARSER](https://github.com/cauyrd/ARSER) 
 
+[LSPR](https://github.com/cauyrd/LSPR) : periodicity detection for evenly or unevenly sampled time-course data
+
 [MetaCycle](https://github.com/gangwug/MetaCycle) 
 
 [eJTK](https://github.com/alanlhutchison/empirical-JTK_CYCLE-with-asymmetry) 
@@ -29,3 +31,4 @@ Collection of software to deal with different types of RNA-Seq
 [ZeitZeiger](https://github.com/jakejh/zeitzeiger)
 
 [DODR](https://cran.r-project.org/web/packages/DODR/index.html)
+
