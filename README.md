@@ -15,14 +15,14 @@ Collection of software to deal with different types of RNA-Seq
 
 ## Rhythmic expression
 
--[COSOPT](https://github.com/mhiromi/cosopt)
--[ARSER](https://github.com/cauyrd/ARSER) 
--[LSPR](https://github.com/cauyrd/LSPR) : periodicity detection for evenly or unevenly sampled time-course data
--[MetaCycle](https://github.com/gangwug/MetaCycle) 
--[eJTK](https://github.com/alanlhutchison/empirical-JTK_CYCLE-with-asymmetry) 
--[JTK_Cycle](http://www.openwetware.org/wiki/HughesLab:JTK_Cycle) 
--[BIO_CYCLE](http://circadiomics.ics.uci.edu/?biocycle=true)
--[RAIN](https://www.bioconductor.org/packages/release/bioc/html/rain.html)
--[ZeitZeiger](https://github.com/jakejh/zeitzeiger)
--[DODR](https://cran.r-project.org/web/packages/DODR/index.html)
+- [COSOPT](https://github.com/mhiromi/cosopt)
+- [ARSER](https://github.com/cauyrd/ARSER) 
+- [LSPR](https://github.com/cauyrd/LSPR) : periodicity detection for evenly or unevenly sampled time-course data
+- [MetaCycle](https://github.com/gangwug/MetaCycle) 
+- [eJTK](https://github.com/alanlhutchison/empirical-JTK_CYCLE-with-asymmetry) 
+- [JTK_Cycle](http://www.openwetware.org/wiki/HughesLab:JTK_Cycle) 
+- [BIO_CYCLE](http://circadiomics.ics.uci.edu/?biocycle=true)
+- [RAIN](https://www.bioconductor.org/packages/release/bioc/html/rain.html)
+- [ZeitZeiger](https://github.com/jakejh/zeitzeiger)
+- [DODR](https://cran.r-project.org/web/packages/DODR/index.html)
 
