@@ -10,6 +10,8 @@ Collection of software to deal with different types of RNA-Seq
 ## RNA editing (RNA-Seq only)
 - [giremi](https://github.com/zhqingit/giremi)
 - [RED-ML](https://github.com/BGIRED/RED-ML)
+## Gene fusion
+- [fusionCatcher](https://github.com/ndaniel/fusioncatcher):Identify somatic fusion from Normal & Tumor RNA-Seq data sets
 
 ## Rhythmic expression
 
