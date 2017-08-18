@@ -7,6 +7,9 @@ Collection of software to deal with different types of RNA-Seq
 - [exceRpt](https://rkitchen.github.io/exceRpt/) 
 - [iRNA-Seq](http://www.sdu.dk/en/om_sdu/institutter_centre/bmb_biokemi_og_molekylaer_biologi/forskning/forskningsgrupper/functionalgenomics/tools) 
 
+## Expression (TPM, RPKM)
+- [ExprCount2TPM](https://github.com/xflicsu/ExprCount2TPM)
+- [readCount2RPKM](https://github.com/xflicsu/readCount2RPKM)
 ## RNA editing (RNA-Seq only)
 - [giremi](https://github.com/zhqingit/giremi)
 - [RED-ML](https://github.com/BGIRED/RED-ML)
