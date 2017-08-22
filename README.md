@@ -30,3 +30,5 @@ Collection of software to deal with different types of RNA-Seq
 - [ZeitZeiger](https://github.com/jakejh/zeitzeiger)
 - [DODR](https://cran.r-project.org/web/packages/DODR/index.html)
 
+## Immunology
+- [TRUST](https://bitbucket.org/liulab/trust/)
