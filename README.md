@@ -32,3 +32,6 @@ Collection of software to deal with different types of RNA-Seq
 
 ## Immunology
 - [TRUST](https://bitbucket.org/liulab/trust/)
+
+## Collection
+- [RNA-Seq](https://wiki2.org/en/List_of_RNA-Seq_bioinformatics_tools)
