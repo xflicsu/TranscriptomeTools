@@ -6,6 +6,7 @@ Collection of software to deal with different types of RNA-Seq
 ## Profile
 - [exceRpt](https://rkitchen.github.io/exceRpt/) 
 - [iRNA-Seq](http://www.sdu.dk/en/om_sdu/institutter_centre/bmb_biokemi_og_molekylaer_biologi/forskning/forskningsgrupper/functionalgenomics/tools) 
+- [hppRNA](https://sourceforge.net/projects/hpprna/)
 
 ## Expression (TPM, RPKM)
 - [ExprCount2TPM](https://github.com/xflicsu/ExprCount2TPM)
