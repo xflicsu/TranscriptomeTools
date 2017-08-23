@@ -6,6 +6,10 @@ Tools to detect gene expression from different types of RNA-Seq (RNA-Seq, small-
 - [Microarray](http://learn.genetics.utah.edu/content/labs/microarray/) How Microarry works for gene expression profile
 - [Bioconductor](http://repository.countway.harvard.edu/xmlui/bitstream/handle/10473/4710/Bioconductor_Manual.doc?sequence=1)
 - [biostars](https://www.biostars.org/p/53870/)Solution for analysing Data In Bioconductor
+## Three types of Microarray platform.
+- Affy
+- Illumina
+- Agilent
 ## Analysis examples
 
 
