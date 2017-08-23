@@ -1,7 +1,12 @@
 # TranscriptomeTools
 Tools to detect gene expression from different types of RNA-Seq (RNA-Seq, small-RNA-Seq)
 
-Collection of software to deal with different types of RNA-Seq
+# Microarry
+## Background information
+- [Microarray](http://learn.genetics.utah.edu/content/labs/microarray/)
+
+
+# Collection of software to deal with different types of RNA-Seq
 
 ## Profile
 - [exceRpt](https://rkitchen.github.io/exceRpt/) 
