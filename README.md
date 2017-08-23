@@ -3,7 +3,7 @@ Tools to detect gene expression from different types of RNA-Seq (RNA-Seq, small-
 
 # Microarry
 ## Background information
-- [Microarray](http://learn.genetics.utah.edu/content/labs/microarray/)
+- [Microarray](http://learn.genetics.utah.edu/content/labs/microarray/) How Microarry works for gene expression profile
 
 
 
