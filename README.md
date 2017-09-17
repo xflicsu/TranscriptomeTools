@@ -1,6 +1,8 @@
 # TranscriptomeTools
 Tools to detect gene expression from different types of RNA-Seq (RNA-Seq, small-RNA-Seq)
 
+- [RNA-Seq guide line](https://www.epigenesys.eu/images/stories/protocols/pdf/20150303161357_p67.pdf)
+
 # Microarry
 ## Background information
 - [Microarray](http://learn.genetics.utah.edu/content/labs/microarray/) How Microarry works for gene expression profile
